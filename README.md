@@ -4,7 +4,7 @@
 
 ### Deep TLS/SSL Security Assessment & Certificate Analysis
 
-`v1.0.0` | Patricio Tirado | Hyperium
+`v2.0.0` | Patricio Tirado | Hyperium
 
 ---
 
